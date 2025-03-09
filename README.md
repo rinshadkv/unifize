@@ -36,7 +36,7 @@ To install the DiscountService, follow these steps:
     ```sh
     mvn test
     ```
-5. run appliction
+5. run application
     ```sh
     mvn run
     ```
@@ -67,7 +67,7 @@ Content-Length: 76
 
 ## Add new data
 
-- to  add new data goto  dataIntilaizer code, add more data 
+- to  add new data goto  dataInitializer code, add more data 
 
 
 ## add new Test
@@ -75,8 +75,8 @@ Content-Length: 76
 
 
 
-## Explantion
+## Explanation
 `
-This is a simple demo of a discount service and only focus in main functionality, not all edge case coverd only basic .  I followed given documentation as base . I konw lots thing missing from a real discount service. This project only intent to showcase my ability in lld and hld . 
+This is a simple demo of a discount service and only focus in main functionality, not all edge case covered only basic .  I followed given documentation as base . I know lots thing missing from a real discount service. This project only intent to showcase my ability in lld and hld . for more sample projects or assignments available on my Github profile,feel free to checkout 
 
 
