@@ -29,8 +29,8 @@ To install the DiscountService, follow these steps:
     cd DiscountService
     ```
 3. Install the dependencies:
-    ```sh
-  mvn clean install 
+    ```
+   mvn clean install 
     ```
 4. Run Test
 ```
