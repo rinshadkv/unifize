@@ -67,7 +67,7 @@ Content-Length: 76
 
 ## Add new data
 
-- to  add new data in dataIntilaizer code 
+- to  add new data goto  dataIntilaizer code, add more data 
 
 
 ## add new Test
