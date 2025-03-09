@@ -33,13 +33,13 @@ To install the DiscountService, follow these steps:
    mvn clean install 
     ```
 4. Run Test
-```
-mvn test
-```
+    ```sh
+    mvn test
+    ```
 5. run appliction
-```
-mvn run
-```
+    ```sh
+    mvn run
+    ```
 
 
 ## API Endpoints
@@ -67,11 +67,11 @@ Content-Length: 76
 
 ## Add new data
 
--  add new data in dataIntilaizer code 
+- to  add new data in dataIntilaizer code 
 
 
 ## add new Test
-- add new test inside test folder 
+-  to add new test go to  inside test folder and add new test 
 
 
 
